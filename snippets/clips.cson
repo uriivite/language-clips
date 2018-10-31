@@ -41,9 +41,6 @@
   not:
     prefix: 'not'
     body: 'not\n\t($1)\n'
-  not:
-    prefix: 'not'
-    body: 'not\n\t($1)\n'
   and:
     prefix: 'and'
     body: 'and\n\t($1)\n\t($2)\n'
